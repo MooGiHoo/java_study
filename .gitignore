@@ -1,6 +1,7 @@
 # 디폴트 무시된 파일
 /shelf/
 /.idea/workspace.xml
+/.idea/vcs.xml
 /vcs.xml
 # 에디터 기반 HTTP 클라이언트 요청
 /httpRequests/
@@ -9,4 +10,4 @@
 /dataSources.local.xml
 
 /out
-.gitignore
+/.gitignore
